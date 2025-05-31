@@ -1,0 +1,1 @@
+This project automates cold email generation using GenAI. By simply entering a company's career page URL, it scrapes job openings and generates personalized emails for outreach — saving time and boosting relevance for IT professionals and organizations.
