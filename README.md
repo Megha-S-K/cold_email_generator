@@ -9,6 +9,7 @@ This project allows users to input the URL of a company's careers page. The tool
 
 ## Architecture 
 
+```bash
 Career's Page ----> LLM --------> Extract jobs in json --------------->LLM----->Cold email
                             [job_title,skills,experience,           |
                                   job_description]                  |
@@ -17,6 +18,7 @@ Career's Page ----> LLM --------> Extract jobs in json --------------->LLM----->
                                         |                           |
                                   Vector store----------------------|
                                         
+```
 
 
 
